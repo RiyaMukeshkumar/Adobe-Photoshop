@@ -45,11 +45,11 @@ Your setting is done now click ok to create your file.
 ![creative computing 2](https://user-images.githubusercontent.com/94533126/142496733-edc8d4e4-a3a2-4f93-a86d-567536401ca7.jpg)
  
  
-###### The images above show what your setting file should look like after following the steps and the result of the file when it is created. When your file is created you will see a tool box with small icons in the box on the left side of your screen which is called ‘toolbox’. Toolbox is very important to create anything in PS. After you understand the tools you will be able to start ***to bring your imagination to reality***. There are millions of guides, blogs and videos to help you with this so, Don’t think too much. 
+#### The images above show what your setting file should look like after following the steps and the result of the file when it is created. When your file is created you will see a tool box with small icons in the box on the left side of your screen which is called ‘toolbox’. Toolbox is very important to create anything in PS. After you understand the tools you will be able to start ***to bring your imagination to reality***. There are millions of guides, blogs and videos to help you with this so, Don’t think too much. 
  
-###### The aim of this file is to give the reader a brief information on Adobe Software and a starting point to one of the best Adobe software - Photoshop. This file is to encourage the students to start using Adobe softwares. Therefore download the software and…. 
- 
-> ## ***Make, believe, photoshop***
+#### The aim of this file is to give the reader a brief information on Adobe Software and a starting point to one of the best Adobe software - Photoshop. This file is to encourage the students to start using Adobe softwares. 
+
+
 
 ### References that helped me with the Research
  
@@ -58,3 +58,8 @@ Your setting is done now click ok to create your file.
 <https://join.skillshare.com/digital-illustration/?category=Adobe%20Photoshop&coupon=GOOG1MFREE&utm_source=Google&utm_medium=paidsearch&utm_campaign=Croud_Search_Google_EN_UK_BOF_Non-Brand_Graphic-Design&utm_term=learn%20photoshop&matchtype=b&gclid=Cj0KCQiAkNiMBhCxARIsAIDDKNWr3U038vttM0sQyxfIciTvU4vNftQqDT6Z1EeAc4rRKgCQGYpxSsgaAgUhEALw_wcB>
  
 <https://helpx.adobe.com/uk/photoshop/how-to/ps-basics-fundamentals.html>
+
+
+
+
+# ***Make, believe, photoshop***
